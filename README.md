@@ -1,2 +1,2 @@
 # kelon
-UI/UX Designer Open Opportunities on the Midas Platform."
+UI/UX Designer Open Opportunities and collaboration. 
